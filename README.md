@@ -1,39 +1,55 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Bootstrap Mini Project: Portfolio
 
-Welcome,
+Welcome to my mini Bootstrap portfolio! This project serves as a simple showcase of my information and competencies, providing you with a glimpse into my skills and experiences.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Table of Contents
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+- [Bootstrap Mini Project: Portfolio](#bootstrap-mini-project-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+  - [Technologies Used](#technologies-used)
+  - [Features](#features)
+  - [Contributing](#contributing)
+  - [Contact](#contact)
 
-## Codeanywhere Reminders
+## Introduction
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+This project is a minimalist Bootstrap-based portfolio designed to highlight my professional information, competencies, and experiences. Whether you're a potential employer, collaborator, or simply curious about my work, this portfolio offers a brief overview.
 
-`python3 -m http.server`
+## Getting Started
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+To view the portfolio locally, follow these steps:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+1. Clone the repository:
 
-`http_server`
+   ```bash
+   git clone https://github.com/your-username/mini-bootstrap-portfolio.git
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+   Navigate to project directory: cd mini-bootstrap-portfolio
+   ```
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+2. Open the index.html file in your preferred web browser
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Technologies Used
 
-To log into the Heroku toolbelt CLI:
+- HTML
+- CSS (Bootstrap)
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Features
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- Responsive design for various screen sizes.
+- Bootstrap components for a clean and modern layout.
+- Simple three-page structure focusing on key information.
 
----
+## Contributing
 
-Happy coding!
+If you have suggestions for improvements or spot any issues, feel free to open an issue or submit a pull request. Your contributions are welcome!
+
+## Contact
+
+For any inquiries or further information, feel free to reach out:
+
+- Email: ntwaricedric@gmail.com
+
+Happy Coding!
