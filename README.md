@@ -2,7 +2,7 @@
 
 Welcome to my mini Bootstrap portfolio! This project serves as a simple showcase of my information and competencies, providing you with a glimpse into my skills and experiences.
 
-![Portfolio Platform](assets/images/screenshot.png)
+![Portfolio Platform](assets/images/Screenshot.png)
 
 ## Table of Contents
 
