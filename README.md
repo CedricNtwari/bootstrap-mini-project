@@ -2,6 +2,8 @@
 
 Welcome to my mini Bootstrap portfolio! This project serves as a simple showcase of my information and competencies, providing you with a glimpse into my skills and experiences.
 
+![Portfolio Platform](/images/Screenshot.png)
+
 ## Table of Contents
 
 - [Bootstrap Mini Project: Portfolio](#bootstrap-mini-project-portfolio)
@@ -10,6 +12,7 @@ Welcome to my mini Bootstrap portfolio! This project serves as a simple showcase
   - [Getting Started](#getting-started)
   - [Technologies Used](#technologies-used)
   - [Features](#features)
+  - [Deployment](#deployment)
   - [Contributing](#contributing)
   - [Contact](#contact)
 
@@ -41,6 +44,12 @@ To view the portfolio locally, follow these steps:
 - Responsive design for various screen sizes.
 - Bootstrap components for a clean and modern layout.
 - Simple three-page structure focusing on key information.
+
+## Deployment
+
+This project is hosted on Github pages.
+
+The live link can be found here: https://cedricntwari.github.io/bootstrap-mini-project/index.html.
 
 ## Contributing
 
