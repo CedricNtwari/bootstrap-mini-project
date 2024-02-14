@@ -79,6 +79,14 @@ h4 {
     margin-bottom: 40px;
 }
 
+/* ----------------------------------------body */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
 /*--------------------------------------------Heading*/
 
 header {
@@ -175,6 +183,7 @@ header {
 /* ----------------------------------------Footer */
 
 footer {
+    flex: 1;
     background-color: #525252;
     color: #fafafa;
     min-height: 120px;
