@@ -279,6 +279,10 @@ footer {
     width: 60%;
 }
 
+.projects-list {
+    padding: 0;
+}
+
 /* ----------------------------------------Skills */
 
 .progress {
@@ -382,6 +386,10 @@ button[type="submit"] {
 
     .photo {
         background-position: top;
+    }
+
+    .projects-list {
+        padding: 20px;
     }
 }
 
