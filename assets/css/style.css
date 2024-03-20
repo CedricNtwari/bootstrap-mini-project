@@ -97,8 +97,8 @@ header {
     margin-left: 50px;
 }
 
-.logo {
-    background: url("../images/user.webp");
+.photo {
+    background: url("../images/CC.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -372,11 +372,22 @@ button[type="submit"] {
 
 /* ----------------------------------------Media Queries */
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
     .center-form {
         padding-top: 30px;
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
+    }
+
+    .photo {
+        background-position: top;
+    }
+}
+
+@media (min-width: 1600px) {
+    .photo {
+        background-position: left;
+        background-size: contain;
     }
 }
